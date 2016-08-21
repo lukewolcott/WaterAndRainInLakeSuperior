@@ -12,7 +12,5 @@ Our example aims to be as simple as possible, and to illustrate reproducibly the
 - water_and_rain.html: HTML version.
 - water_and_rain.pdf: PDF version.
 - water_and_rain.Rmd: source R Markdown version.
-
-
 - waterlevel.csv: raw data file used in analysis
 - precip_ls.csv: raw data file used in analysis
