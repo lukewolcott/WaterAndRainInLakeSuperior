@@ -6,6 +6,13 @@ Our purpose is to use real data to give an example of topological data analysis,
 
 Our example aims to be as simple as possible, and to illustrate reproducibly the pipeline from data to insight.  We will find a circle in the data of rainfall and water level of Lake Superior.
 
-#### Contents
+#### Relevant Contents
 
-- file: purpose
+- water_and_rain.md: Markdown file of complete analysis, viewable in Github.
+- water_and_rain.html: HTML version.
+- water_and_rain.pdf: PDF version.
+- water_and_rain.Rmd: source R Markdown version.
+
+
+- waterlevel.csv: raw data file used in analysis
+- precip_ls.csv: raw data file used in analysis
